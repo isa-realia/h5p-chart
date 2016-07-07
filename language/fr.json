@@ -1,0 +1,35 @@
+{
+  "semantics": [
+    {
+      "label": "Type de diagramme",
+      "options": [
+        {
+          "label": "Camembert"
+        },
+        {
+          "label": "Barres"
+        }
+      ]
+    },
+    {
+      "label": "Données",
+      "field": {
+        "label": "Donnée",
+        "fields": [
+          {
+            "label": "Nom"
+          },
+          {
+            "label": "Valeur"
+          },
+          {
+            "label": "Couleur"
+          },
+          {
+            "label": "Couleur de police"
+          }
+        ]
+      }
+    }
+  ]
+}
